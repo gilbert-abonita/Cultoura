@@ -65,7 +65,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST")
 			<h2><input type="submit" name="" value="Submit"><a/></h2>
 		</form>
 		<h3>By clicking the Sign Up button, you agree to our <br><a href="terms.php">Terms and Condition</a> and <a href="priv.php">Privacy Policy</a></h3>
-		<h3>Already have an account? <a href="login.php">Login here </a> </h3>
+		<h3>Already have an account? <a href="login.html">Login here </a> </h3>
 	</div>
 
 </body>
